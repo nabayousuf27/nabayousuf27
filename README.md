@@ -36,18 +36,15 @@
   <a href="https://www.linkedin.com/in/nabayousuf/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/NabaYousuf">
+  <a href="https://github.com/nabayousuf27">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:nabayousuf@example.com">
+  <a href="mailto:nabay0519@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
+<!--   <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
     <img alt="Discord" src="https://img.shields.io/badge/@naba-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@nabayousuf">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 
