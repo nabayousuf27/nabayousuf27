@@ -14,15 +14,6 @@
 
 ---
 
-### 📬 Connect with Me:
-<p>
-  <a href="https://www.linkedin.com/in/nabayousuf/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Naba%20Yousuf-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -39,6 +30,14 @@
 
 ---
 
+### 📬 Connect with Me:
+<p>
+  <a href="https://www.linkedin.com/in/nabayousuf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Naba%20Yousuf-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+---
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabayousuf27&show_icons=true&theme=radical" alt="GitHub Stats" />
