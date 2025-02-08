@@ -30,12 +30,26 @@
 
 ---
 
-### 📬 Connect with Me:
-<p>
+### 📬 Follow & Connect With Me on My Socials!:
+<div align="center">
+  <br>
   <a href="https://www.linkedin.com/in/nabayousuf/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Naba%20Yousuf-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://github.com/NabaYousuf">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:nabayousuf@example.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
+    <img alt="Discord" src="https://img.shields.io/badge/@naba-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@nabayousuf">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 ### 📊 GitHub Stats:
