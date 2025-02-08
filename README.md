@@ -39,9 +39,10 @@
   <a href="https://github.com/nabayousuf27">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:nabay0519@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:nabay0519@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <!--   <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
     <img alt="Discord" src="https://img.shields.io/badge/@naba-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a> -->
